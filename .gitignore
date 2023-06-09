@@ -1,0 +1,80 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# General
+*.out
+*.etcd
+/.idea/
+/.settings/
+/.vscode/
+/bin/
+/target/
+
+/__pycharm__/
+/__pycache__/
+
+node_modules/
+*.log
+
+.idea/
+
+.DS_Store
+.AppleDouble
+.LSO
+verride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+/etcd_test.py
+/worker/tmp/
+/master/default.etcd/
+/helper/__pycache__/
+/master/__pycache__/
+/worker/__pycache__/
+helper/__pycache__/
+master/__pycache__/
+worker/__pycache__/

@@ -1,0 +1,12 @@
+Flask
+pika
+etcd3
+protobuf==3.18.1
+requests
+docker==5.0.3
+PyYAML
+python-memcached
+psutil
+ttkbootstrap
+prettytable
+configparser
